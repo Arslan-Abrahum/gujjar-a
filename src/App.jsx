@@ -41,11 +41,10 @@ function App() {
 
           </div>
         </div>
-        <a href="https://chat.whatsapp.com/ElzWGqAuASp57bOhevsC8y" ref={imageRef} className="h-20 w-20 md:h-24 md:w-28 block mt-6 xl:mt-0">
+        <a href="https://chat.whatsapp.com/D2QGpj7INKTBMfVS2rPr1Y" ref={imageRef} className="h-20 w-20 md:h-24 md:w-28 block mt-6 xl:mt-0">
           <img src={Logo1} className="w-full h-full" alt="WhatsApp" />
         </a>
       </div>
-
       {/* Second WhatsApp Group Section */}
       <div className="w-full md:w-[90%] mx-auto mt-6 flex flex-wrap justify-center xl:justify-between lg:justify-between md:justify-between sm:justify-between  items-center flex-col xl:flex-row lg:flex-row md:flex-col  p-4 shadow-lg rounded-lg bg-white text-red-500">
         <div className=" flex items-center flex-wrap flex-col xl:flex-row lg:flex-row">
@@ -57,7 +56,6 @@ function App() {
             <div className="icon h-10 w-10  text-2xl md:text-3xl  flex justify-center items-center bg-red-500 text-white rounded-md ml-3 md:ml-5">
               <FaArrowRight />
             </div>
-
           </div>
         </div>
         <a href="https://chat.whatsapp.com/ElzWGqAuASp57bOhevsC8y" className="h-20 w-20 md:h-24 md:w-28 block mt-6 xl:mt-0">

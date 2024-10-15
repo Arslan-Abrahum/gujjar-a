@@ -41,7 +41,7 @@ function App() {
 
           </div>
         </div>
-        <a href="https://chat.whatsapp.com/D2QGpj7INKTBMfVS2rPr1Y" ref={imageRef} className="h-20 w-20 md:h-24 md:w-28 block mt-6 xl:mt-0">
+        <a href="https://chat.whatsapp.com/CkcrCQgumbV2xL1PFxgE51" ref={imageRef} className="h-20 w-20 md:h-24 md:w-28 block mt-6 xl:mt-0">
           <img src={Logo1} className="w-full h-full" alt="WhatsApp" />
         </a>
       </div>
